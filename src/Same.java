@@ -6,7 +6,7 @@ System.out.println(a);
 
 }
 private void div() {
-int b=12;
+int c=12;
 System.out.println(b);
 }
 }
